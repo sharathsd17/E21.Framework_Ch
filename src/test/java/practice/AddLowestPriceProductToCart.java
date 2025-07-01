@@ -68,6 +68,8 @@ public class AddLowestPriceProductToCart {
 		if (productInCart.equals(PRODUCTNAME)) {
 			System.out.println(productInCart);
 			System.out.println("PASS");
+			System.out.println("PASS");
+			System.out.println("PASS");
 		} else {
 			System.out.println("FAIL");
 		}
