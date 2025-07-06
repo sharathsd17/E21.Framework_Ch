@@ -100,7 +100,7 @@
         <version>3.5.3</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>testng-RegressionSuite.xml</suiteXmlFile>
+            <suiteXmlFile>RegressionSuite.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>
